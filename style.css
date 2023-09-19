@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    min-width: 70px;
+    min-height: 70px;
+    border: 3px solid black;
+    padding: 5px;
+    position: relative;
+}
+
+.verde {
+  background-color:rgb(161, 198, 66);
+}
+
+.laranja {
+  background-color:rgb(248, 175, 0);
+}
+
+.amarelo {
+  background-color: rgb(238, 207, 0);
+}
+
+.petroleo {
+  background-color: rgb(70,170,171);
+}
+
+.azulcla {
+  background-color: rgb(150, 195, 240);
+}
+  
+.azulesc {
+  background-color: rgb(55,153,234);
+}
+
+.rosa {
+  background-color: rgb(243,151,142);
+}
+
+.cinza {
+  background-color: rgb(166,186,199);
+}
+
+.ciano {
+  background-color: rgb(122,200,214);
+}
+
+.roxo {
+  background-color: rgb(197,154,187);
+}
+
+h1 {
+  text-align: center;
+}
+
+h5 {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  font-size: 10px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+h4 {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+}
+
+h6 {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.vazio {
+  border: 2px solid transparent;
+}
